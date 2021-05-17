@@ -1,0 +1,10 @@
+<app-user-form></app-user-form>
+<h2>Reactive form</h2>
+<app-add-employee [countFromParent]="count" (countFromChild)="getFromChild($event)"></app-add-employee>
+<hr>
+<div>
+    count from child is {{count}}
+</div>
+<hr>
+<hr>
+<app-employee></app-employee>

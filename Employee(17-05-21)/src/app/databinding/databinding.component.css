@@ -1,0 +1,19 @@
+.blue {
+    color: blue;
+}
+
+p[blueParagraph="blue"] {
+    color: blue;
+    background-color: yellow;
+}
+
+p[redParagraph="red"] {
+    color: red;
+    background-color: green;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+}
