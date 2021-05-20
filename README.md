@@ -13,5 +13,6 @@
 
 #####14/05/2021 #Done with employee-management project of angular #basics of typescript #Added to the git
 
-#####15/05/2021 #Done with data binding topic #Added the examples of data binding to git
+###15/05/2021 #Done with data binding topic #Added the examples of data binding to git
 
+##19/05/2021 #Connected the back end with employee-mangement project.
